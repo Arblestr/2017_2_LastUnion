@@ -2,25 +2,17 @@
 Игра в жанре раннер
 
 [Сайт где можно поиграть](https://lastunion.ml)
-## Состав команды LastUnion:
+## Состав команды:
 1) <a href="https://github.com/HaseProgram" style="font-style: italic;">Дмитрий Зайцев</a> АПО 21
-2) <a href="https://github.com/strelnikoff" style="font-style: italic;">Стрельников Олег</a> АПО 21
-3) <a href="https://github.com/HustonMmmavr" style="font-style: italic;">Барулев Александр</a> АПО 21
-
-## Бекенд
-[Репозиторий бека](https://github.com/java-park-mail-ru/LastUnion-09-2017/)
-
-## Фронтенд
-[Репозиторий фронта](https://github.com/frontend-park-mail-ru/2017_2_LastUnion)
+2) <a href="https://github.com/arblestr" style="font-style: italic;">Никита Ермаков</a> АПО 21
+3) <a href="https://github.com/krontand" style="font-style: italic;">Александр Шмыков</a> АПО 21
 
 ## Использемые технологии
-Java version 1.8
-
-Spring boot 1.5.9
-
-JavaScript
-
-Nginx
+nodeJS
+webpack
+eslint
+tarvis
+nginx
 
 ## Документация
 Посмотреть API сервера можно тут: <a href="https://app.swaggerhub.com/apis/HustonMmmavr/server_api/1.0.0" style="font-weight: bold">Описаие Апи</a>
