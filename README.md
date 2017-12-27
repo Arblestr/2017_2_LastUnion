@@ -3,9 +3,9 @@
 
 [Сайт где можно поиграть](https://lastunion.ml)
 ## Состав команды:
-1) <a href="https://github.com/HaseProgram" style="font-style: italic;">Дмитрий Зайцев</a> АПО 21
-2) <a href="https://github.com/arblestr" style="font-style: italic;">Никита Ермаков</a> АПО 21
-3) <a href="https://github.com/krontand" style="font-style: italic;">Александр Шмыков</a> АПО 21
+1) Дмитрий Зайцев
+2) Никита Ермаков
+3) Александр Шмыков
 
 ## Использемые технологии
 nodeJS
@@ -15,12 +15,12 @@ tarvis
 nginx
 
 ## Документация
-Посмотреть API сервера можно тут: <a href="https://app.swaggerhub.com/apis/HustonMmmavr/server_api/1.0.0" style="font-weight: bold">Описаие Апи</a>
+Посмотреть API сервера можно тут: <a href="https://app.swaggerhub.com/apis/HustonMmmavr/server_api/1.0.0" style="font-weight: bold">Описание Апи</a>
 
 ### Запуск
 ```sh
-$ git clone https://github.com/frontend-park-mail-ru/2017_2_LastUnion
-$ cd 2017_2_LastUnion/
+$ git clone http://git.iu7.bmstu.ru/iu7-web-2017/last-union
+$ cd last-union
 ```
 
 Our application requires [Node.js](https://nodejs.org/) v6+ to run.
